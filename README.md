@@ -44,7 +44,7 @@ I'm open to connecting with professionals in Data Analytics and exploring opport
 - **GitHub:** [fernanda163](https://github.com/fernanda163)
 - **LinkedIn:** [Fernanda Encinas Rios](https://www.linkedin.com/in/fernanda-encinas-rios-0ba552416/)
 
-Thank you for visiting my profile!
+
 
 
 Thank you for visiting my profile!
