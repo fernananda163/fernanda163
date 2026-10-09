@@ -46,7 +46,5 @@ I'm open to connecting with professionals in Data Analytics and exploring opport
 
 Thank you for visiting my profile!
 
-- **GitHub:** [fernanda163](https://github.com/fernanda163)
-- **LinkedIn:** Add your LinkedIn profile URL here
 
 Thank you for visiting my profile!
