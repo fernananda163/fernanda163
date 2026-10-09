@@ -37,8 +37,14 @@ A SQL analytics project focused on exploring business data, answering analytical
 I'm interested in entry-level Data Analyst opportunities where I can apply analytical thinking, technical skills, and business understanding to solve real-world problems.
 
 I am committed to continuous learning and improving my analytical and communication skills.
-
 ## 📫 Let's Connect!
+
+I'm open to connecting with professionals in Data Analytics and exploring opportunities to learn, collaborate, and grow.
+
+- **GitHub:** [fernanda163](https://github.com/fernanda163)
+- **LinkedIn:** [Fernanda Encinas Rios](https://www.linkedin.com/in/fernanda-encinas-rios-0ba552416/)
+
+Thank you for visiting my profile!
 
 - **GitHub:** [fernanda163](https://github.com/fernanda163)
 - **LinkedIn:** Add your LinkedIn profile URL here
